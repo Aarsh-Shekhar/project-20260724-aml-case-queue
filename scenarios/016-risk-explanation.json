@@ -1,0 +1,7 @@
+{
+  "name": "risk explanation",
+  "domain": "fintech compliance",
+  "score_floor": 0.64,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}
