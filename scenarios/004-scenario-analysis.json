@@ -1,0 +1,7 @@
+{
+  "name": "scenario analysis",
+  "domain": "fintech compliance",
+  "score_floor": 0.77,
+  "review_window_hours": 48,
+  "expected_action": "review"
+}
