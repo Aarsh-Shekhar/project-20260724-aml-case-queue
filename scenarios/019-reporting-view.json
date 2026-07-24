@@ -1,0 +1,7 @@
+{
+  "name": "reporting view",
+  "domain": "fintech compliance",
+  "score_floor": 0.49,
+  "review_window_hours": 12,
+  "expected_action": "monitor"
+}
