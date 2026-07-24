@@ -1,0 +1,7 @@
+{
+  "name": "field validation",
+  "domain": "fintech compliance",
+  "score_floor": 0.57,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}
